@@ -97,7 +97,7 @@ class _GrouptState extends State<Group> {
                 );
               },
             ),
-            if (groups.isNotEmpty) // Chỉ hiển thị khi có phần tử trong groups
+            if (groups.isNotEmpty) 
               Column(
                 children: [
                   Container(
